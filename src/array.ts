@@ -9,6 +9,6 @@ console.log(typeof rollNumbers);
 let mixedElements = ["Abir", 8, true, null, undefined];
 
 //tuples
-const user: [number, string] = [5, "Abir"];
-user[0] = 1;
-console.log(user);
+// const user: [number, string] = [5, "Abir"];
+// user[0] = 1;
+// console.log(user);
