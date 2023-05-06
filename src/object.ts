@@ -1,5 +1,5 @@
 const user: {
-  company: "Programming Hero";
+  company: "Programming Hero"; //Literal type
   name: string;
   age: number;
   isMarried: boolean;
@@ -12,3 +12,4 @@ const user: {
 };
 
 console.log(user);
+console.log(user.wife);
